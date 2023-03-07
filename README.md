@@ -13,7 +13,7 @@ $ python main.py
 misses device officers
 ```
 
-## Testing outputs
+## Testing
 
 https://www.security.org/how-secure-is-my-password/
 
