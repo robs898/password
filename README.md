@@ -29,6 +29,8 @@ The probability of randomly choosing 3 words from a list of 10551 words and gett
 
 ## Entropy
 
+https://xkcd.com/936/
+
 > How many bits of entropy are in the password 'misses device officers' ?
 
 To estimate the number of bits of entropy in a password, we can use the formula:
