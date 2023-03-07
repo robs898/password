@@ -1,4 +1,4 @@
-# Passwords
+# Password
 
 Using a given word list of 10551 words we can generate long, secure, easy to remember passwords by combining 3 words
 
