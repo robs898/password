@@ -16,6 +16,7 @@ misses device officers
 ## Testing outputs
 
 https://www.security.org/how-secure-is-my-password/
+
 https://bitwarden.com/password-strength/
 
 Even small answers from above such as `misses device officers` will take over 100 years to crack
