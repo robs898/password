@@ -1,3 +1,6 @@
+import secrets
+import string
+
 def generate_password(length=14):
     """https://docs.python.org/3/library/secrets.html"""
     alphabet = f"@#&*-_{string.ascii_letters}{string.digits}"
